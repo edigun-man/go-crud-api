@@ -25,6 +25,5 @@ This project is ideal for learning how Go works under the hood when building web
 ├── models/
 │   └── user.go          # User struct definition
 ├── handlers/
-│   └── user_handler.go  # HTTP handlers for CRUD operations
-├── db/
-│   └── connection.go    # (Optional) DB connection setup using database/sql
+    └── user_handler.go  # HTTP handlers for CRUD operations
+
