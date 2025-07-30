@@ -1,0 +1,12 @@
+# Binary File
+main
+*.exe
+
+# File
+/tmp/
+
+# CONFIG
+.air.toml
+
+# Log
+*.log
